@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for React
+React Web app showcasing basic netowrking and Component usage.
 
 To run the project:
 
