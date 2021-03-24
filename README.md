@@ -1,7 +1,7 @@
 # robofriends
 Tutorial for React
 
-You can find the project Live [on Github Pages](ezra-black.github.io/robotreact/)
+You can find the project Live [on Github Pages](ezra-black.github.io/robotreact)
 
 or
 
